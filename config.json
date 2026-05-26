@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsrender",
+        "uuid": 1695168,
+        "checksum": "2k7fvp"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
